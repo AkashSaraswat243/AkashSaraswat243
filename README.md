@@ -35,6 +35,8 @@ I am a MERN Stack Developer with a passion for Open Source Enthusiast __ Buildin
 
 ## 💼 Projects
 - [Frontend-Netflix](https://frontend-netflix-seven.vercel.app/) - Clone of Netflix Website.
+- [RPS--Game](https://rps-game-83jp8jdih-akashsaraswat243s-projects.vercel.app/) - Rock Paper Game.
+- [Simon-Game](https://simon-game-i5334wxjl-akashsaraswat243s-projects.vercel.app/) - Simon Game.
 
 ## 💬 Feedback
 If you have any feedback, please reach out to me at AkashSaraswat243@gmail.com.
