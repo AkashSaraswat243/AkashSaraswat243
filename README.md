@@ -25,7 +25,7 @@ I am a MERN Stack Developer with a passion for Open Source Enthusiast __ Buildin
 <!-- Add more badges for the tools and languages you use -->
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akashsaraswat997/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/yourprofile)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=portfolio)](https://yourportfolio.com)
@@ -34,26 +34,11 @@ I am a MERN Stack Developer with a passion for Open Source Enthusiast __ Buildin
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-## 📈 Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=dracula)
-
-## 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 💼 Projects
 - [Project Name](https://github.com/yourusername/projectname) - Brief description
-- [Project Name](https://github.com/yourusername/projectname) - Brief description
-- [Project Name](https://github.com/yourusername/projectname) - Brief description
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Title](https://yourblog.com/post1)
-- [Title](https://yourblog.com/post2)
-- [Title](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
 ## 💬 Feedback
-If you have any feedback, please reach out to me at [Your Email].
+If you have any feedback, please reach out to me at AkashSaraswat243@gmail.com.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
