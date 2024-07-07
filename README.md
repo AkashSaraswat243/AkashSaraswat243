@@ -26,8 +26,7 @@ I am a MERN Stack Developer with a passion for Open Source Enthusiast __ Buildin
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akashsaraswat997/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/iam_akashsaraswat/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=portfolio)](https://yourportfolio.com)
 
 ## 📊 GitHub Stats
