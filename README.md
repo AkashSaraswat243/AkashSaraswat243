@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Akash Saraswat ! 👋
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner](https://i.postimg.cc/FzzrQmbq/Shipping.png)
 
 ## 🚀 About Me
 I am a [Your Profession/Title] with a passion for [Your Interests/Field of Work]. I love to work on projects related to [Your Specialization]. In my spare time, I enjoy [Your Hobbies].
