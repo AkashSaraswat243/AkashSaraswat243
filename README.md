@@ -3,7 +3,7 @@
 ![Profile Banner](https://i.postimg.cc/FzzrQmbq/Shipping.png)
 
 ## 🚀 About Me
-I am a [Your Profession/Title] with a passion for [Your Interests/Field of Work]. I love to work on projects related to [Your Specialization]. In my spare time, I enjoy [Your Hobbies].
+I am a MERN Stack Developer with a passion for Open Source Enthusiast __ Building Scalable Web Applications. I love to work on projects related to JavaScript, React, Node.js, and MongoDB. In my spare time, I enjoy Typing WPM - 63.
 
 - 🔭 I’m currently working on [Your Current Project]
 - 🌱 I’m currently learning [Your Learning Goal]
