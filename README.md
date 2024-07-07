@@ -21,7 +21,6 @@ I am a MERN Stack Developer with a passion for Open Source Enthusiast __ Buildin
 ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visual-studio-code)
 <!-- Add more badges for the tools and languages you use -->
 
 ## 🔗 Connect with Me
