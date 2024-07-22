@@ -1,18 +1,18 @@
-# Hi there, I'm Akash Saraswat ! 👋
+# Hi there, I'm Akash Saraswat! 👋
 
 ![Profile Banner](https://i.postimg.cc/FzzrQmbq/Shipping.png)
 
 ## 🚀 About Me
-I am a MERN Stack Developer with a passion for Open Source Enthusiast __ Building Scalable Web Applications. I love to work on projects related to JavaScript, React, Node.js, and MongoDB. In my spare time, I enjoy Typing WPM - 63.
+I am a MERN Stack Developer passionate about Open Source Enthusiasts __ Building Scalable Web Applications. I love to work on projects related to JavaScript, React, Node.js, and MongoDB. In my spare time, I enjoy Typing WPM - 63.
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Your Learning Goal]
-- 👯 I’m looking to collaborate on [Your Collaboration Interests]
-- 🤔 I’m looking for help with [Your Help Needed]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [An Interesting Fact About You]
+- 🔭 I’m currently working on Airbnb Clone
+- 🌱 I’m currently learning How to make an attractive website
+- 👯 I’m looking to collaborate on a full Stack Web Project
+- 🤔 I’m looking for help with Project Ideas
+- 💬 Ask me about FronTend and BacKend RoadMap
+- 📫 How to reach me: Linkedin, Instagram & Send me DM
+- 😄 Pronouns: Akash
+- ⚡ Fun fact: Curious to help each other 
 
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
