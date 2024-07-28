@@ -1,6 +1,6 @@
 # Hi there, I'm Akash Saraswat! 👋
 
-![Profile Banner](https://www.imghippo.com/i/YsBsN1722140603.png)
+![Profile Banner](https://i.imghippo.com/files/YsBsN1722140603.png)
 
 ## 🚀 About Me
 I am a MERN Stack Developer passionate about Open Source Enthusiasts __ Building Scalable Web Applications. I love to work on projects related to JavaScript, React, Node.js, and MongoDB. In my spare time, I enjoy Typing WPM - 63.
