@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I am a MERN Stack Developer passionate about Open Source Enthusiasts __ Building Scalable Web Applications. I love to work on projects related to JavaScript, React, Node.js, and MongoDB. In my spare time, I enjoy Typing WPM - 63.
 
-- 🔭 I’m currently working on Airbnb Clone
+- 🔭 I’m currently working on new projects
 - 🌱 I’m currently learning How to make an attractive website
 - 👯 I’m looking to collaborate on a full Stack Web Project
 - 🤔 I’m looking for help with Project Ideas
