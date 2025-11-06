@@ -1,4 +1,7 @@
-# Hi there, I'm Akash Saraswat! 👋
+<h1 align ="center">
+  <img src ="https://readme-typing-svg.herouapp.com/?
+    font=Righteous&color=7e15f7&random=falsesize=35&center=true&vcenter=true&width=500&height=70&duration=2000&lines=Hi+there!+👋;+I'm+Akash+Saraswat+!;" />
+</h1>
 
 ![Profile Banner](https://i.imghippo.com/files/YsBsN1722140603.png)
 
