@@ -64,7 +64,6 @@ When not coding, I’m probably exploring new frameworks or building something f
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkashSaraswat243&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&icon_color=00CFFF" height="160" />
-  <img src="https://streak-stats.demolab.com?user=AkashSaraswat243&theme=tokyonight&hide_border=true&background=0D1117" height="160" />
 </p>
 
 <p align="center">
