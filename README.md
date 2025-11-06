@@ -102,14 +102,6 @@ When not coding, I’m probably exploring new frameworks or building something f
 
 ---
 
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkashSaraswat243/AkashSaraswat243/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 💬 Feedback  
 
 💌 Have ideas, feedback, or collaboration offers?  
@@ -126,41 +118,3 @@ Reach out anytime at **AkashSaraswat243@gmail.com** — I’d love to connect!
 <h3 align="center">💎 Crafted with 💙 by <a href="https://github.com/AkashSaraswat243">Akash Saraswat</a></h3>
 
 ---
-
-<!-- 🐍 To enable Snake animation:
-  1️⃣ Create file: .github/workflows/snake.yml
-  2️⃣ Paste this inside 👇 -->
-
-<!--
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    name: Generate snake SVG
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout profile repo
-        uses: actions/checkout@v4
-
-      - name: Generate snake.svg
-        uses: Platane/snk@v3
-        with:
-          github_user_name: AkashSaraswat243
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
