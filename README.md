@@ -1,52 +1,113 @@
-<h1 align ="center">
-  <img src ="https://readme-typing-svg.herouapp.com/?
-    font=Righteous&color=7e15f7&random=falsesize=35&center=true&vcenter=true&width=500&height=70&duration=2000&lines=Hi+there!+👋;+I'm+Akash+Saraswat+!;" />
+<!-- 🌟 Designed by ChatGPT (GPT-5) for Akash Saraswat -->
+<!-- 💎 Glassmorphic & Animated GitHub Profile README -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&height=70&lines=Hey+there!+👋;+I'm+Akash+Saraswat!;+Welcome+to+my+Profile!" />
 </h1>
 
-![Profile Banner](https://i.imghippo.com/files/YsBsN1722140603.png)
+<p align="center">
+  <img src="https://i.imghippo.com/files/YsBsN1722140603.png" width="100%" alt="Akash Saraswat Banner"/>
+</p>
 
-## 🚀 About Me
-I am a MERN Stack Developer passionate about Open Source Enthusiasts __ Building Scalable Web Applications. I love to work on projects related to JavaScript, React, Node.js, and MongoDB. In my spare time, I enjoy Typing WPM - 63.
+---
 
-- 🔭 I’m currently working on new projects
-- 🌱 I’m currently learning How to make an attractive website
-- 👯 I’m looking to collaborate on a full Stack Web Project
-- 🤔 I’m looking for help with Project Ideas
-- 💬 Ask me about FronTend and BacKend RoadMap
-- 📫 How to reach me: Linkedin, Instagram & Send me DM
-- 😄 Pronouns: Akash
-- ⚡ Fun fact: Curious to help each other 
+## 🧠 About Me  
 
-## 🛠️ Languages and Tools
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-<!-- Add more badges for the tools and languages you use -->
+💻 **MERN Stack Developer** | 🌐 **Open Source Enthusiast** | 💡 **Creative Coder**
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akashsaraswat997/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/iam_akashsaraswat/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=portfolio)](https://yourportfolio.com)
+Hi, I'm **Akash Saraswat**, a passionate developer who loves turning ideas into elegant, interactive, and scalable digital experiences.  
+I specialize in **React, Node.js, MongoDB, and Express**, with a keen eye for UI design and performance.
 
-## 📊 GitHub Stats
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+✨ I’m always exploring new technologies to stay ahead of the curve and bring creative solutions to life.
 
+---
 
-## 💼 Projects
-- [AirBnb-Webpage](https://akashtechify.me/listings) - AirBnb RestFul API.
-- [Modern-WebPage](https://modern-webpage.vercel.app/) - Modern Web Site.
-- [Frontend-Netflix](https://frontend-netflix-ten.vercel.app/) - Clone of Netflix Website.
-- [RPS-Game](https://rps-game-83jp8jdih-akashsaraswat243s-projects.vercel.app/) - Rock Paper Game.
-- [Simon-Game](https://simon-game-i5334wxjl-akashsaraswat243s-projects.vercel.app/) - Simon Game.
-- [Frontend-Spotify](https://frontend-spotify-q04rsduxr-akashsaraswat243s-projects.vercel.app/) - Clone of Spotify Website.
-  
+### ⚙️ What I’m Doing  
 
-## 💬 Feedback
-If you have any feedback, please reach out to me at AkashSaraswat243@gmail.com.
+- 🚀 Building full-stack web projects  
+- 🌱 Learning Next.js, TypeScript & Tailwind CSS  
+- 🤝 Open to collaborating on MERN or open-source projects  
+- 💬 Ask me about Frontend & Backend Roadmaps  
+- 🧩 Fun Fact: I can debug faster with music 🎧  
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+---
 
+## ⚒️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,python,tailwind" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akashsaraswat997/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/iam_akashsaraswat/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:AkashSaraswat243@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkashSaraswat243&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&icon_color=00CFFF" height="160" />
+  <img src="https://streak-stats.demolab.com?user=AkashSaraswat243&theme=tokyonight&hide_border=true&background=0D1117" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSaraswat243&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkashSaraswat243&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 📈 Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashSaraswat243&theme=react-dark&bg_color=0D1117&hide_border=true&line=00CFFF&point=00CFFF" />
+</p>
+
+---
+
+## 💼 Featured Projects  
+
+| Project | Description | Live Demo |
+|----------|--------------|------------|
+| 🏠 **AirBnb-Webpage** | RESTful API-based AirBnb clone | [Visit](https://akashtechify.me/listings) |
+| 💻 **Modern-WebPage** | Responsive and sleek modern UI | [Visit](https://modern-webpage.vercel.app/) |
+| 🎬 **Netflix Clone** | React-based Netflix UI clone | [Visit](https://frontend-netflix-ten.vercel.app/) |
+| 🎵 **Spotify Clone** | Interactive Spotify frontend | [Visit](https://frontend-spotify-q04rsduxr-akashsaraswat243s-projects.vercel.app/) |
+| ✊ **RPS Game** | Rock-Paper-Scissors browser game | [Visit](https://rps-game-83jp8jdih-akashsaraswat243s-projects.vercel.app/) |
+| 🔵 **Simon Game** | Memory-based Simon Game | [Visit](https://simon-game-i5334wxjl-akashsaraswat243s-projects.vercel.app/) |
+
+---
+
+## 💬 Feedback  
+
+💌 Have ideas, feedback, or collaboration offers?  
+Reach out at **AkashSaraswat243@gmail.com** — I’d love to connect!
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AkashSaraswat243.AkashSaraswat243&left_color=00CFFF&right_color=purple" alt="Visitors Badge" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/AkashSaraswat243/AkashSaraswat243/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<h3 align="center">💎 Crafted with 💙 by <a href="https://github.com/AkashSaraswat243">Akash Saraswat</a></h3>
