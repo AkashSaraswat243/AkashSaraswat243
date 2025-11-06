@@ -1,8 +1,8 @@
 <!-- 🌟 Designed by ChatGPT (GPT-5) for Akash Saraswat -->
-<!-- 💎 Glassmorphic & Animated GitHub Profile README -->
+<!-- 💎 Premium, Glassmorphic & Animated GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&height=70&lines=Hey+there!+👋;+I'm+Akash+Saraswat!;+Welcome+to+my+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=550&height=70&lines=Hey+there!+👋;+I'm+Akash+Saraswat!;+Full-Stack+Developer;+Open-Source+Contributor;+Tech+Explorer!" />
 </h1>
 
 <p align="center">
@@ -13,29 +13,38 @@
 
 ## 🧠 About Me  
 
-💻 **MERN Stack Developer** | 🌐 **Open Source Enthusiast** | 💡 **Creative Coder**
+💻 **Full Stack MERN Developer** | 🌐 **Open Source Enthusiast** | 🧠 **Creative Problem Solver**
 
-Hi, I'm **Akash Saraswat**, a passionate developer who loves turning ideas into elegant, interactive, and scalable digital experiences.  
-I specialize in **React, Node.js, MongoDB, and Express**, with a keen eye for UI design and performance.
+Hi, I'm **Akash Saraswat**, a developer passionate about building interactive, high-performance web applications.  
+I specialize in **React, Node.js, Express, and MongoDB**, with strong UI/UX design sense using **Tailwind CSS** and **Next.js**.
 
-✨ I’m always exploring new technologies to stay ahead of the curve and bring creative solutions to life.
-
----
-
-### ⚙️ What I’m Doing  
-
-- 🚀 Building full-stack web projects  
-- 🌱 Learning Next.js, TypeScript & Tailwind CSS  
-- 🤝 Open to collaborating on MERN or open-source projects  
-- 💬 Ask me about Frontend & Backend Roadmaps  
-- 🧩 Fun Fact: I can debug faster with music 🎧  
+🚀 Always learning, always experimenting — from front-end polish to backend scalability.  
+When not coding, I’m probably exploring new frameworks or building something fun.
 
 ---
 
-## ⚒️ Tech Stack  
+## ⚙️ What I’m Doing  
+
+- 🚧 Developing full-stack web apps using the MERN stack  
+- 🔍 Exploring **AI integrations** and **Next.js server components**  
+- 💬 Helping other developers with Frontend/Backend Roadmaps  
+- 🤝 Open to collaboration on interesting open-source ideas  
+- 🎧 Fun fact: I debug faster with lo-fi music playing 😎  
+
+---
+
+## 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,python,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,python,git,github,vscode,tailwind,postman,vercel" />
+</p>
+
+---
+
+## 🧩 Animated Tech Stack Carousel  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&color=00CFFF&size=24&duration=3000&center=true&vCenter=true&width=600&lines=💻+React+%7C+Node.js+%7C+Express+%7C+MongoDB;🎨+TailwindCSS+%7C+Next.js+%7C+JavaScript;⚙️+REST+APIs+%7C+Git+%7C+VS+Code;☁️+Deployment+on+Vercel+and+Render" />
 </p>
 
 ---
@@ -45,8 +54,8 @@ I specialize in **React, Node.js, MongoDB, and Express**, with a keen eye for UI
 <p align="center">
   <a href="https://www.linkedin.com/in/akashsaraswat997/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/iam_akashsaraswat/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:AkashSaraswat243@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:AkashSaraswat243@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -84,12 +93,12 @@ I specialize in **React, Node.js, MongoDB, and Express**, with a keen eye for UI
 
 | Project | Description | Live Demo |
 |----------|--------------|------------|
-| 🏠 **AirBnb-Webpage** | RESTful API-based AirBnb clone | [Visit](https://akashtechify.me/listings) |
-| 💻 **Modern-WebPage** | Responsive and sleek modern UI | [Visit](https://modern-webpage.vercel.app/) |
-| 🎬 **Netflix Clone** | React-based Netflix UI clone | [Visit](https://frontend-netflix-ten.vercel.app/) |
-| 🎵 **Spotify Clone** | Interactive Spotify frontend | [Visit](https://frontend-spotify-q04rsduxr-akashsaraswat243s-projects.vercel.app/) |
-| ✊ **RPS Game** | Rock-Paper-Scissors browser game | [Visit](https://rps-game-83jp8jdih-akashsaraswat243s-projects.vercel.app/) |
-| 🔵 **Simon Game** | Memory-based Simon Game | [Visit](https://simon-game-i5334wxjl-akashsaraswat243s-projects.vercel.app/) |
+| 🏠 **AirBnb-Webpage** | RESTful API-based AirBnb clone with dynamic listings | [Visit](https://akashtechify.me/listings) |
+| 💻 **Modern-WebPage** | Elegant & responsive multi-section landing page | [Visit](https://modern-webpage.vercel.app/) |
+| 🎬 **Netflix Clone** | Netflix UI with movie previews and dynamic content | [Visit](https://frontend-netflix-ten.vercel.app/) |
+| 🎵 **Spotify Clone** | Modern Spotify UI frontend clone using React | [Visit](https://frontend-spotify-q04rsduxr-akashsaraswat243s-projects.vercel.app/) |
+| 🕹️ **AI ChatBot (New)** | AI-powered Chatbot built with OpenAI API & React | [Visit](https://your-ai-chatbot-demo-link.com) |
+| 🔵 **Simon Game** | Classic memory-based Simon Game | [Visit](https://simon-game-i5334wxjl-akashsaraswat243s-projects.vercel.app/) |
 
 ---
 
@@ -104,7 +113,7 @@ I specialize in **React, Node.js, MongoDB, and Express**, with a keen eye for UI
 ## 💬 Feedback  
 
 💌 Have ideas, feedback, or collaboration offers?  
-Reach out at **AkashSaraswat243@gmail.com** — I’d love to connect!
+Reach out anytime at **AkashSaraswat243@gmail.com** — I’d love to connect!
 
 ---
 
@@ -118,34 +127,40 @@ Reach out at **AkashSaraswat243@gmail.com** — I’d love to connect!
 
 ---
 
-<!-- 🐍 To enable the Snake animation below:
-     1️⃣ Go to .github/workflows/
-     2️⃣ Create a file named 'snake.yml' and paste this:
-     
-     name: Generate Snake
-     on:
-       schedule:
-         - cron: "0 18 * * *"
-       workflow_dispatch:
-     jobs:
-       build:
-         name: Generate snake SVG
-         runs-on: ubuntu-latest
-         steps:
-           - name: Checkout profile repo
-             uses: actions/checkout@v4
-           - name: Generate snake.svg
-             uses: Platane/snk@v3
-             with:
-               github_user_name: AkashSaraswat243
-               outputs: |
-                 dist/github-contribution-grid-snake.svg
-                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-           - name: Push to output branch
-             uses: crazy-max/ghaction-github-pages@v4
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<!-- 🐍 To enable Snake animation:
+  1️⃣ Create file: .github/workflows/snake.yml
+  2️⃣ Paste this inside 👇 -->
+
+<!--
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Generate snake SVG
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: AkashSaraswat243
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 -->
