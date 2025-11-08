@@ -64,6 +64,7 @@ When not coding, I’m probably exploring new frameworks or building something f
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkashSaraswat243&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&icon_color=00CFFF" height="160" />
+  <img src="https://streak-stats.demolab.com?user=AkashSaraswat243&theme=tokyonight&hide_border=true&background=0D1117" height="160" />
 </p>
 
 <p align="center">
@@ -98,6 +99,14 @@ When not coding, I’m probably exploring new frameworks or building something f
 | 🎵 **Spotify Clone** | Modern Spotify UI frontend clone using React | [Visit](https://frontend-spotify-q04rsduxr-akashsaraswat243s-projects.vercel.app/) |
 | 🕹️ **AI ChatBot (New)** | AI-powered Chatbot built with OpenAI API & React | [Visit](https://your-ai-chatbot-demo-link.com) |
 | 🔵 **Simon Game** | Classic memory-based Simon Game | [Visit](https://simon-game-i5334wxjl-akashsaraswat243s-projects.vercel.app/) |
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AkashSaraswat243/AkashSaraswat243/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
