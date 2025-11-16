@@ -93,11 +93,10 @@ When not coding, I’m probably exploring new frameworks or building something f
 
 | Project | Description | Live Demo |
 |----------|--------------|------------|
-| 🏠 **AirBnb-Webpage** | RESTful API-based AirBnb clone with dynamic listings | [Visit](https://akashtechify.me/listings) |
+| 🏠 **AirBnb-Webpage** | RESTful API-based AirBnb clone with dynamic listings | [Visit](https://airbnb-clone-lnha.onrender.com/listings) |
 | 💻 **Modern-WebPage** | Elegant & responsive multi-section landing page | [Visit](https://modern-webpage.vercel.app/) |
-| 🎬 **Netflix Clone** | Netflix UI with movie previews and dynamic content | [Visit](https://frontend-netflix-ten.vercel.app/) |
 | 🎵 **Spotify Clone** | Modern Spotify UI frontend clone using React | [Visit](https://frontend-spotify-q04rsduxr-akashsaraswat243s-projects.vercel.app/) |
-| 🕹️ **AI ChatBot (New)** | AI-powered Chatbot built with OpenAI API & React | [Visit](https://your-ai-chatbot-demo-link.com) |
+| 🕹️ **What's App AI** | AI-powered Chatbot built with OpenAI API & React | [Visit](https://chat-application-kg8t.onrender.com/) |
 | 🔵 **Simon Game** | Classic memory-based Simon Game | [Visit](https://simon-game-i5334wxjl-akashsaraswat243s-projects.vercel.app/) |
 
 ---
